@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Istrate_Bogdan_Lab6", "Istrate_Bogdan_Lab6.csproj", "{50DE481F-D1E9-4F2E-8D3D-D59C51FEC4A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{1FD106F9-A3D0-4F4F-A635-FCE5447DF2CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50DE481F-D1E9-4F2E-8D3D-D59C51FEC4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50DE481F-D1E9-4F2E-8D3D-D59C51FEC4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50DE481F-D1E9-4F2E-8D3D-D59C51FEC4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50DE481F-D1E9-4F2E-8D3D-D59C51FEC4A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD106F9-A3D0-4F4F-A635-FCE5447DF2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD106F9-A3D0-4F4F-A635-FCE5447DF2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD106F9-A3D0-4F4F-A635-FCE5447DF2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD106F9-A3D0-4F4F-A635-FCE5447DF2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49DDB552-57D8-4B5C-969E-1D4D3CFF193D}
+	EndGlobalSection
+EndGlobal
